@@ -229,12 +229,13 @@ body {
 .benefit {
   display: flex;
   align-items: center;
-  img {
-    width: 100px;
-  }
   p {
     font-weight: bold;
   }
+}
+
+.benefit-img {
+  width: 100px;
 }
 
 .benefits-aside {

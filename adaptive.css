@@ -155,6 +155,7 @@
   }
   .whyus {
     padding-bottom: 110px;
+    height: 1620px;
   }
   .footer-title {
     padding: 0;
@@ -171,5 +172,13 @@
   .icon {
     display: none;
   }
-  
+  .benefits__content {
+    height: 1334px;
+  }
+  .tariff {
+    height: 1765px;
+  }
+  .footer-container {
+    height: 940px;
+  }
 }

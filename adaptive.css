@@ -172,9 +172,9 @@
   .icon {
     display: none;
   }
-  .benefits__content {
+  /* .benefits__content {
     height: 1334px;
-  }
+  } */
   .tariff {
     height: 1765px;
   }
